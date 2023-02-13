@@ -2,3 +2,4 @@ name : Samsung
 version : A50s
 ram : 4gb 
 version :A52
+version : 522
